@@ -18,8 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. This is a Numbered
-2. Orange, Apple
+1. Orange, Apple, Banana
 
 
 **Bold** and _Italic_ and `Code` text
